@@ -3,6 +3,11 @@ I"m MernStack Web Developer,skilled on javaScript, express js , mongoDB,
 
 <img src="./Assets/mern.jpg" />
 
+### 🧑‍💻 About Me
+
+I am a passionate and self-motivated MERN Stack Developer, currently working on dynamic and responsive full-stack web applications. I love to build scalable solutions using modern web technologies.
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/parvez-reza-9a78a42a8/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parvezreza112@gmail.com) 
 
