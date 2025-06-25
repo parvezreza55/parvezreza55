@@ -1,9 +1,6 @@
 <h1>Hi 👋, I'm Parvez Reza Pavel</h1>
 
 <h2>I am a passionate MERN Stack Developer</h3>
-
-
-
 <img src="./Assets/mern.jpg" />
 
 # 🧑‍💻 About Me
