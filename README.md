@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Parvez Reza Pavel</h1>
-<h3 align="center">💻 MERN Stack Developer</h3>
-
----
+<h1>Hi 👋, I'm Parvez Reza Pavel</h1>
+<h3>💻 MERN Stack Developer</h3>
 
 <img src="./Assets/mern.jpg" />
 
