@@ -1,5 +1,7 @@
-# 💫 About Me:
-I"m MernStack Web Developer,skilled on javaScript, express js , mongoDB, 
+<h1 align="center">Hi 👋, I'm Parvez Reza Pavel</h1>
+<h3 align="center">💻 MERN Stack Developer</h3>
+
+---
 
 <img src="./Assets/mern.jpg" />
 
